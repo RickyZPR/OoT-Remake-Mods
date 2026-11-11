@@ -1,0 +1,4 @@
+# Only needed to read a game dump (.nup) when no Hookshot Builder is on the PC. The window itself needs nothing.
+# For Python 3.9 or newer: zbic has no ready-made package for Python 3.8.
+zstandard>=0.23
+zbic>=1.0.1
